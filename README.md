@@ -9,6 +9,9 @@ A simple Pong game built using Processing. This game features a player, computer
 - Game over messages when either the player or the computer wins.
 - Simple and intuitive controls.
 
+## Live Demo
+![Demo GIF](demo.gif)
+
 ## Installation
 
 1. **Clone the Repository:**
